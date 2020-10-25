@@ -1,0 +1,12 @@
+Date		Start	Stop	Activity		Comments
+03/08/2020	12:00	14:00	coding/debugging	added subset 0
+04/08/2020	16:00	19:00	coding			added subset 1, partial subset 2
+05/08/2020	11:00	12:00	debugging		fixed bugs in subset 1
+05/08/2020	19:00	20:00	coding			progress in subset 2
+07/08/2020	11:00	13:00	coding			completed subset 2
+07/08/2020	19:00	20:00	debugging		fixed bugs in subset 2
+08/08/2020	11:00	14:00	coding			added subset 3
+08/08/2020	18:00 	19:00	testing			added test cases
+09/08/2020	11:00	13:00	coding			partly added subset 4
+09/08/2020	15:00	18:00	debugging/coding	fixed errors,added more cases to subset 4
+09/08/2020	19:00	20:00	testing			final test cases and demos
